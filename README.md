@@ -1,5 +1,13 @@
-laborki-c
-=========
+#laborki z c
 
-Zadania z laboratorium w C
-   int main() {}
+
+Szablon programu *hello word*:
+
+'''c
+
+   int main() {
+   printf("hello world\n");
+
+    return 0;
+}
+'''
